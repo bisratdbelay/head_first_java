@@ -1,6 +1,6 @@
 package head_first_java;
 
-public class Exercise1c {
+class Exercise1c {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
